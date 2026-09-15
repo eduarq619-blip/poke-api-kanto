@@ -1,0 +1,4 @@
+node_modules/
+data/pokemon.json
+.env
+coverage/
